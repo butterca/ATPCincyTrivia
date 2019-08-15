@@ -1,0 +1,104 @@
+body, html {
+  margin: 20;
+  padding: 20;
+  width: 100%;
+  height: 100%;
+    
+}
+
+body {
+  font-size: 12px;
+    font-family: papyrus;
+    color: black;
+    font-weight: bold;
+    background-image: url("open.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0; 
+}
+
+.header{
+    
+    text-align: center;
+}
+
+.gameStuff{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+/*
+div{
+    text-align: center;
+}
+*/
+
+.questionOutput{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+button{
+    margin: 25px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 80px;
+    font-size: 24px;
+    text-align: center;
+    background: white;
+    font-weight: 700;
+    font-family: papyrus;
+    color: black;
+    
+}
+
+input{
+    font-family: papyrus;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    font-size: 24px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    text-align: center;
+}
+
+.profPic{
+    padding-top: 10px;
+    text-align: center;
+}
+
+/*
+.buttonsAB{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.buttonsBC{
+   display: flex;
+    flex-wrap: wrap;
+}
+*/
+
+.video{
+    width: 100%;
+    height: 100%;
+}
